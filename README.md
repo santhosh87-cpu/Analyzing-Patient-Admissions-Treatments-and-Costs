@@ -47,6 +47,16 @@ Visualization and Reporting: Using Power BI and Python libraries to generate ins
 Target
 
 Hospitals & Healthcare Providers: Optimize patient care and resource allocation.
+Project Overview: Healthcare Data Analysis with Machine Learning
+This project focuses on analyzing a healthcare dataset to gain insights into patient demographics, medical conditions, hospital admissions, billing amounts, and treatment outcomes. By leveraging Python and Machine Learning, the goal is to identify patterns, predict healthcare costs, and optimize patient care strategies.
+
+Key aspects of the project include:
+
+Exploratory Data Analysis (EDA): Understanding trends in patient health conditions and hospital resource utilization.
+Machine Learning Modeling: Predicting hospital costs and patient outcomes using regression and classification models.
+Data-Driven Insights: Identifying the impact of medical conditions, insurance providers, and admission types on billing and treatment.
+Visualization & Reporting: Using Power BI and Python to create interactive dashboards and reports.
+The project serves hospitals, insurance companies, researchers, and policymakers by providing actionable insights to improve healthcare efficiency and reduce costs. 🚀
 
 Insurance Companies: Assess risk and optimize pricing models.
 
